@@ -1,5 +1,4 @@
 # PROJECT TITLE: Peak Energy Prediction
-This project is part of our Unit Assesment of CITS5553 (Data Science Capstone Project) at UWA
 
 ## AIM AND BACKGROUND
 
